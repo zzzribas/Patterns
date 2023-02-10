@@ -1,7 +1,7 @@
 # Patterns
 A Nintendo Switch Theme.
 
-![](https://github.com/zzzribas/Patterns/Github.gif)
+![](https://github.com/zzzribas/Patterns/blob/main/Github.gif)
 
 Hello again,
 
