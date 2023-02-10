@@ -1,6 +1,8 @@
 # Patterns
 A Nintendo Switch Theme.
 
+![](https://github.com/zzzribas/Patterns/Github.gif)
+
 Hello again,
 
 I am back in the scene and I have just created a new theme. Im really pround of this one.
