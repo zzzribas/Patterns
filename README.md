@@ -21,6 +21,7 @@ I will also be creating documentation on how to create your own moving themes on
 
 -UPDATE-
 Now also for 1x1 Standard Nintendo Icons.
+![](https://github.com/zzzribas/Patterns/blob/main/1x1/github1x1.gif)
 
 # BUGS:
 
