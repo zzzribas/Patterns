@@ -16,7 +16,7 @@ I would like to give a big BIG thanks to my friend Capybara (u/darkerthansvart) 
 
 You can download the theme on Themezer:
 Vertical - https://themezer.net/packs/Patterns.-58f
-Standard - 
+Standard - https://themezer.net/packs/Patterns-1x1-Icons-59b
 
 I will also be creating documentation on how to create your own moving themes on Github soon.
 
