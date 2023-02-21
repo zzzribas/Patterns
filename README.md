@@ -1,7 +1,7 @@
 # Patterns
 A Nintendo Switch Theme.
 
-![](https://github.com/zzzribas/Patterns/blob/main/github.gif)
+![](https://github.com/zzzribas/Patterns/blob/main/Vertical/github.gif)
 
 Hello again,
 
@@ -19,6 +19,8 @@ You can download the theme on Themezer:
 
 I will also be creating documentation on how to create your own moving themes on Github soon.
 
+-UPDATE-
+Now also for 1x1 Standard Nintendo Icons.
 
 # BUGS:
 
