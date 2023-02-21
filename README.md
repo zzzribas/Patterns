@@ -15,7 +15,8 @@ Currently, this theme is only available for vertical icons. However, if there is
 I would like to give a big BIG thanks to my friend Capybara (u/darkerthansvart) for all his help and for sharing his notes on animations and panes with me. His themes have inspired me to purchase another Switch just to experience his work and get back into theming.
 
 You can download the theme on Themezer:
-
+Vertical - https://themezer.net/packs/Patterns.-58f
+Standard - 
 
 I will also be creating documentation on how to create your own moving themes on Github soon.
 
