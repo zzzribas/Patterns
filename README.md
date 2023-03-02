@@ -38,3 +38,5 @@ If you press the '+' button on a game in the main menu, the animation will stop 
 
 I hope you enjoy my new theme, Patterns!"
  
+Background artwork is by J3Concepts
+https://www.behance.net/j3concepts
